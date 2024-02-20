@@ -1,0 +1,73 @@
+PRODUCT_Id,MODEL_Id,Color, Storage,Price
+AppleIPhone11Black128GB,APPLE iPhone 11,Black, 128 GB,$44999
+AppleIPhone11Black64GB,APPLE iPhone 11,Black, 64 GB,$41999
+AppleIPhone11Green64GB,APPLE iPhone 11,Green, 64 GB,$41999
+AppleIPhone11Red64GB,APPLE iPhone 11,Red, 64 GB,$41999
+AppleIPhone11White128GB,APPLE iPhone 11,White, 128 GB,$44999
+AppleIPhone11White64GB,APPLE iPhone 11,White, 64 GB,$41999
+AppleIPhone12Black128GB,APPLE iPhone 12,Black, 128 GB,$56999
+AppleIPhone12Black64GB,APPLE iPhone 12,Black, 64 GB,$51999
+AppleIPhone12Blue128GB,APPLE iPhone 12,Blue, 128 GB,$56999
+AppleIPhone12Blue64GB,APPLE iPhone 12,Blue, 64 GB,$51999
+AppleIPhone12Green128GB,APPLE iPhone 12,Green, 128 GB,$56999
+AppleIPhone12Green64GB,APPLE iPhone 12,Green, 64 GB,$51999
+AppleIPhone12Purple128GB,APPLE iPhone 12,Purple, 128 GB,$56999
+AppleIPhone12Purple64GB,APPLE iPhone 12,Purple, 64 GB,$51999
+AppleIPhone12Red128GB,APPLE iPhone 12,Red, 128 GB,$56999
+AppleIPhone12Red64GB,APPLE iPhone 12,Red, 64 GB,$51999
+AppleIPhone12White128GB,APPLE iPhone 12,White, 128 GB,$56999
+AppleIPhone12White64GB,APPLE iPhone 12,White, 64 GB,$51999
+AppleIPhone13Blue128GB,APPLE iPhone 13,Blue, 128 GB,$59999
+AppleIPhone13Blue256GB,APPLE iPhone 13,Blue, 256 GB,$69999
+AppleIPhone13Green128GB,APPLE iPhone 13,Green, 128 GB,$59999
+AppleIPhone13Green256GB,APPLE iPhone 13,Green, 256 GB,$69999
+AppleIPhone13Midnight128GB,APPLE iPhone 13,Midnight, 128 GB,$59999
+AppleIPhone13Midnight256GB,APPLE iPhone 13,Midnight, 256 GB,$69999
+AppleIPhone13Pink128GB,APPLE iPhone 13,Pink, 128 GB,$59999
+AppleIPhone13Pink256GB,APPLE iPhone 13,Pink, 256 GB,$69999
+AppleIPhone13REd128GB,APPLE iPhone 13,REd, 128 GB,$59999
+AppleIPhone13Starlight128GB,APPLE iPhone 13,Starlight, 128 GB,$59999
+AppleIPhone13Starlight256GB,APPLE iPhone 13,Starlight, 256 GB,$69999
+AppleIPhone13ProMaxGold512GB,APPLE iPhone 13 Pro Max,Gold, 512 GB,$134999
+AppleIPhone14Blue128GB,APPLE iPhone 14,Blue, 128 GB,$67999
+AppleIPhone14Blue256GB,APPLE iPhone 14,Blue, 256 GB,$77999
+AppleIPhone14Midnight128GB,APPLE iPhone 14,Midnight, 128 GB,$67999
+AppleIPhone14Midnight256GB,APPLE iPhone 14,Midnight, 256 GB,$77999
+AppleIPhone14Midnight512GB,APPLE iPhone 14,Midnight, 512 GB,$97999
+AppleIPhone14Purple128GB,APPLE iPhone 14,Purple, 128 GB,$67999
+AppleIPhone14Purple256GB,APPLE iPhone 14,Purple, 256 GB,$77999
+AppleIPhone14REd128GB,APPLE iPhone 14,REd, 128 GB,$66999
+AppleIPhone14REd256GB,APPLE iPhone 14,REd, 256 GB,$77999
+AppleIPhone14REd512GB,APPLE iPhone 14,REd, 512 GB,$97999
+AppleIPhone14Starlight128GB,APPLE iPhone 14,Starlight, 128 GB,$67999
+AppleIPhone14Starlight256GB,APPLE iPhone 14,Starlight, 256 GB,$77999
+AppleIPhone14Yellow512GB,APPLE iPhone 14,Yellow, 512 GB,$97999
+AppleIPhone14PlusBlue128GB,APPLE iPhone 14 Plus,Blue, 128 GB,$76999
+AppleIPhone14PlusBlue512GB,APPLE iPhone 14 Plus,Blue, 512 GB,$106999
+AppleIPhone14PlusMidnight128GB,APPLE iPhone 14 Plus,Midnight, 128 GB,$76999
+AppleIPhone14PlusMidnight512GB,APPLE iPhone 14 Plus,Midnight, 512 GB,$106999
+AppleIPhone14PlusPurple128GB,APPLE iPhone 14 Plus,Purple, 128 GB,$76999
+AppleIPhone14PlusPurple512GB,APPLE iPhone 14 Plus,Purple, 512 GB,$106999
+AppleIPhone14PlusREd128GB,APPLE iPhone 14 Plus,REd, 128 GB,$76999
+AppleIPhone14PlusREd512GB,APPLE iPhone 14 Plus,REd, 512 GB,$106999
+AppleIPhone14PlusStarlight128GB,APPLE iPhone 14 Plus,Starlight, 128 GB,$76999
+AppleIPhone14PlusStarlight256GB,APPLE iPhone 14 Plus,Starlight, 256 GB,$86999
+AppleIPhone14ProDeepPurple128GB,APPLE iPhone 14 Pro,Deep Purple, 128 GB,$119999
+AppleIPhone14ProGold128GB,APPLE iPhone 14 Pro,Gold, 128 GB,$119999
+AppleIPhone14ProSilver128GB,APPLE iPhone 14 Pro,Silver, 128 GB,$119999
+AppleIPhone14ProSpaceBlack128GB,APPLE iPhone 14 Pro,Space Black, 128 GB,$119999
+AppleIPhone14ProSpaceBlack512GB,APPLE iPhone 14 Pro,Space Black, 512 GB,$149999
+AppleIPhone14ProMaxDeepPurple128GB,APPLE iPhone 14 Pro Max,Deep Purple, 128 GB,$127999
+AppleIPhone14ProMaxDeepPurple512GB,APPLE iPhone 14 Pro Max,Deep Purple, 512 GB,$157999
+AppleIPhone14ProMaxGold1TB,APPLE iPhone 14 Pro Max,Gold, 1 TB,$177999
+AppleIPhone14ProMaxGold128GB,APPLE iPhone 14 Pro Max,Gold, 128 GB,$127999
+AppleIPhone14ProMaxSilver128GB,APPLE iPhone 14 Pro Max,Silver, 128 GB,$127999
+AppleIPhone14ProMaxSpaceBlack1TB,APPLE iPhone 14 Pro Max,Space Black, 1 TB,$177999
+AppleIPhone14ProMaxSpaceBlack128GB,APPLE iPhone 14 Pro Max,Space Black, 128 GB,$127999
+AppleIPhoneSEMidnight256GB,APPLE iPhone SE,Midnight, 256 GB,$46599
+AppleIPhoneSEMidnight64GB,APPLE iPhone SE,Midnight, 64 GB,$49900
+AppleIPhoneSERed256GB,APPLE iPhone SE,Red, 256 GB,$46599
+AppleIPhoneSERed64GB,APPLE iPhone SE,Red, 64 GB,$49900
+AppleIPhoneSEStarlight128GB,APPLE iPhone SE,Starlight, 128 GB,$54900
+AppleIPhoneSEStarlight256GB,APPLE iPhone SE,Starlight, 256 GB,$46599
+AppleIPhoneSEStarlight64GB,APPLE iPhone SE,Starlight, 64 GB,$49900

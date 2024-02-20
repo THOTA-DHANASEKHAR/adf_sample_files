@@ -1,0 +1,22 @@
+OrderID,CustomerID,OrderDate,ShipperID,address
+10248,2,7/18/2022,3,"46526 Garza Forest Apt. 137 Lake Amandabury, MP 09441"
+10249,3,7/19/2022,1,"58762 Elizabeth Crescent Apt. 405 South James, GU 36619"
+10250,4,7/19/2022,2,"6796 Michelle Creek Jeremyshire, TX 69651"
+10251,5,7/22/2022,1,"5075 Miller Camp West Jessica, FM 58900"
+10252,13,7/23/2022,2,"21377 Anita Circle East Shelby, FM 88233"
+10253,14,7/24/2022,2,"23084 Taylor Isle Chelseaview, OH 69868"
+10254,15,7/25/2022,2,"32550 Melissa Groves New James, AZ 32440"
+10255,1,7/26/2022,3,"57234 Williams Lodge East Connor, CO 20433"
+10256,17,7/15/2022,2,77915 USNS Gomez FPO AE 
+10257,18,7/16/2022,3,"60857 Stephen Forks Suite 619 New Joshua, MD 88321"
+10258,19,7/17/2022,1,"42371 Phillips Valley Suite 922 Lewistown, FM 80284"
+10259,20,7/18/2022,3,"69514 Joseph Loop Apt. 447 Allisonstad, UT 43452"
+10260,21,7/19/2022,1,"731 Wright Crossing New Julie, MI 40235"
+10261,23,7/19/2022,2,"3952 Gallagher Forges Apt. 622 Danielleport, VT 82548"
+10262,24,7/22/2022,3,"73475 Heather Spurs Apt. 049 South Summer, AK 33329"
+10263,14,7/23/2022,3,"1191 Conner Parks Lloydstad, AZ 53984"
+10264,27,7/24/2022,3,"2907 David Lodge Portertown, OH 11570"
+10265,28,7/25/2022,1," 90245 PSC 4334, Box 0884 APO AP"
+10266,9,7/26/2022,3,"89321 Tammy Avenue South Anna, DC 10842"
+,,,,
+,,,,
